@@ -1,3 +1,24 @@
+<p align="center">
+	<a href="https://git.io/col">
+		<img src="https://img.shields.io/badge/%E2%9C%93-collaborative_etiquette-brightgreen.svg" alt="Collaborative Etiquette">
+	</a>
+	<a href="https://discord.gg/bBpQHym">
+		<img src="https://img.shields.io/discord/447118387118735380.svg?logo=discord" alt="chat on Discord">
+	</a>
+	<a href="https://twitter.com/intent/follow?screen_name=eoscostarica">
+		<img src="https://img.shields.io/twitter/follow/eoscostarica.svg?style=social&logo=twitter" alt="follow on Twitter">
+	</a>
+	<a href="#">
+		<img src="https://img.shields.io/dub/l/vibe-d.svg" alt="MIT">
+	</a>
+</p>
+
+<p align="center">
+	<a href="https://eoscostarica.io">
+		<img src="https://cdn.rawgit.com/eoscostarica/assets/574d20a6/logos/eoscolors-transparent.png" width="300">
+	</a>
+</p>
+
 # Open Source Collaboration
 
 EOS Costa Rica's curated resources, guidelines and conventions for Open Source Collaboration.
