@@ -35,6 +35,15 @@ EOS Costa Rica's curated resources, guidelines and conventions for Open Source C
 	</a>
 </p>
 
+<p align="center">Open Source Basics | Intel Software</p>
+
+<p align="center">
+	<a href="https://www.youtube.com/watch?v=Tyd0FO0tko8">
+		<img src="https://monosnap.com/image/tZ3oXw9sPaVPtDvvl1cRgKKePNYY3i.png" width="600">
+	</a>
+</p>
+
+
 
 <p align="center">How Open-Source Software Can Change Our Lives | Brad Griffith | TEDxNewAlbany</p>
 
