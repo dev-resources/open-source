@@ -2,26 +2,19 @@
 	<a href="https://git.io/col">
 		<img src="https://img.shields.io/badge/%E2%9C%93-collaborative_etiquette-brightgreen.svg" alt="Collaborative Etiquette">
 	</a>
-	<a href="https://discord.gg/bBpQHym">
-		<img src="https://img.shields.io/discord/447118387118735380.svg?logo=discord" alt="chat on Discord">
+
+	<a href="https://twitter.com/intent/follow?screen_name=puravidadac">
+		<img src="https://img.shields.io/twitter/follow/puravidadac.svg?style=social&logo=twitter" alt="follow on Twitter">
 	</a>
-	<a href="https://twitter.com/intent/follow?screen_name=eoscostarica">
-		<img src="https://img.shields.io/twitter/follow/eoscostarica.svg?style=social&logo=twitter" alt="follow on Twitter">
-	</a>
+	
 	<a href="#">
 		<img src="https://img.shields.io/dub/l/vibe-d.svg" alt="MIT">
 	</a>
 </p>
 
-<p align="center">
-	<a href="https://eoscostarica.io">
-		<img src="https://cdn.rawgit.com/eoscostarica/assets/574d20a6/logos/eoscolors-transparent.png" width="300">
-	</a>
-</p>
-
 # Open Source Collaboration
 
-EOS Costa Rica's curated resources, guidelines and conventions for Open Source Collaboration.
+Curated resources, guidelines and conventions for Open Source Collaboration.
 
 *This is a work in progress.*
 
@@ -42,8 +35,6 @@ EOS Costa Rica's curated resources, guidelines and conventions for Open Source C
 		<img src="https://monosnap.com/image/tZ3oXw9sPaVPtDvvl1cRgKKePNYY3i.png" width="600">
 	</a>
 </p>
-
-
 
 <p align="center">How Open-Source Software Can Change Our Lives | Brad Griffith | TEDxNewAlbany</p>
 
@@ -111,7 +102,7 @@ Source of Why Open Source section: [opensource.google.com](https://opensource.go
 - [Why Open Source: Common Myths About Using Open Source Software](https://www.youtube.com/watch?v=s-xDnW8Kt8Y)
 - [History of Gnu, Linux, Free and Open Source Software (Revolution OS)](https://www.youtube.com/watch?v=vjMZssWMweA).
 
-## EOS Costa Rica Contributing Guidelines
+## Contributing Guidelines
 
 Read the [contributing guidelines](CONTRIBUTING.md) for details.
 
@@ -165,16 +156,6 @@ jckelley2](https://www.youtube.com/watch?v=_Jmkvv_nKTE&list=PLwrxhoDq6Kivqmc3jbq
 - [GitHub Desktop](https://desktop.github.com/).
 - [Hub](https://hub.github.com).
 
-## About EOS Costa Rica
-
-EOS Blockchain is aiming to become a decentralized operating system which can support large-scale decentralized applications.
-
-EOS Costa Rica supports the global and local open source efforts and development communities by maintaining and contribute to open source initiatives, meetups and workshops.
-
-We challenge ourselves to provide the EOS platform with a strong geographical and political diversity by running the most robust EOS Block Producer possible from Costa Rica; We pledge to leverage our talent, experience, and sustainable internet resources to meet such an important challenge.
-
-[eoscostarica.io](https://eoscostarica.io)
-
 ## License
 
-MIT © [EOS Costa Rica](https://eoscostarica.io)  
+MIT © [Pura Vida DAC](https://puravidadac.one)  
