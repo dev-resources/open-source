@@ -1,17 +1,3 @@
-<p align="center">
-	<a href="https://git.io/col">
-		<img src="https://img.shields.io/badge/%E2%9C%93-collaborative_etiquette-brightgreen.svg" alt="Collaborative Etiquette">
-	</a>
-
-	<a href="https://twitter.com/intent/follow?screen_name=puravidadac">
-		<img src="https://img.shields.io/twitter/follow/puravidadac.svg?style=social&logo=twitter" alt="follow on Twitter">
-	</a>
-	
-	<a href="#">
-		<img src="https://img.shields.io/dub/l/vibe-d.svg" alt="MIT">
-	</a>
-</p>
-
 # Open Source Collaboration
 
 Curated resources, guidelines and conventions for Open Source Collaboration.
