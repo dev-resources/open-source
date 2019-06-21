@@ -6,6 +6,7 @@
 
 
 - [Development Process](#development-process)
+- [The Code Base](#the-code-base)
 - [Pull Request General Guidelines](#pull-request-general-guidelines)
 - [Commit Message Guidelines](#commit-message-guidelines)
   - [Commit Message Format](#commit-message-format)
@@ -48,6 +49,17 @@ We develop on master and release using tags with semver versioning.
 New and reopened pull request are automatically added to the board in the In Progress column.
 
 When the pull request is closed is moved to the Done column automatically. If the pull request closes and issues it is properly stated with the github keywords closes in the pull request it gets automatically moved to the Done column too.
+
+## The Code Base
+
+We make an effort to keep the code clean and readable, with comments as necessary, and also providing appropriate documentation in our readme files. If you are starting out please make sure you read the documentation first. This is a funfunfunction video with **5 tips to quickly understand a new code base** :
+
+<p align="center">
+	<a href="https://www.youtube.com/watch?v=OnCeaJdd_sY">
+		<img src="https://monosnap.com/image/vifPIziiPM6pi156S1WkCatqxTLfXa.png" width="600">
+	</a>
+</p>
+
 
 ## Pull Request General Guidelines
 
